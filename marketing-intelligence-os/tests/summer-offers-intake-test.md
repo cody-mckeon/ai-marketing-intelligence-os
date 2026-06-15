@@ -12,7 +12,7 @@ A stakeholder is asking how the Summer Offers page performed. They want somethin
 
 The Marketing Analytics Intake Agent should produce a leadership-ready page/campaign performance brief that clarifies the business question, audience, decision, metrics, data sources, caveats, reporting format, and next agent recommendation before any reporting work begins.
 
-The request type should be classified as Mixed Request because it includes Page Performance, Campaign Performance, Leadership Reporting, and Booking/CTA intent analysis.
+The request type should be classified as Mixed Request because it includes Page Performance, Campaign Performance, Leadership Reporting, Conversion / Intent Analysis, and Vendor / Third-Party Reporting.
 
 The business question should focus on whether the Summer Offers page drove qualified engagement and booking-intent actions.
 
@@ -72,7 +72,7 @@ The next agent recommendation should be:
 - Output uses the full 10-section Analytics Request Brief format.
 - Output classifies the request type.
 - For the Summer Offers test, output identifies the request as Mixed Request.
-- Output lists Page Performance, Campaign Performance, and Leadership Reporting as included request types.
+- Output lists Page Performance, Campaign Performance, Leadership Reporting, Conversion / Intent Analysis, and Vendor / Third-Party Reporting as included request types.
 - Output does not jump directly into final analysis or claim performance results without data.
 - Output clearly identifies missing inputs such as exact date range, page URL, campaign names, UTM documentation, CTA/event definitions, and conversion destinations.
 - Output separates what can be scoped now from what requires data access, tracking validation, or vendor/platform data.

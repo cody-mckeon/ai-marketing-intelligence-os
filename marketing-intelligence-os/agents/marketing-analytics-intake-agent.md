@@ -36,6 +36,7 @@ Request type options:
 - Leadership Reporting
 - Data Source Mapping
 - Website Product Insight
+- Conversion / Intent Analysis
 - Vendor / Third-Party Reporting
 - Mixed Request
 

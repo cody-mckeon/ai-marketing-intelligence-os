@@ -8,6 +8,8 @@ Briefly summarize what the stakeholder is asking for, including the page, campai
 - Request type:
 - Included request types, if mixed:
 
+Request type options: Campaign Performance, Page Performance, Tracking Health, Leadership Reporting, Data Source Mapping, Website Product Insight, Conversion / Intent Analysis, Vendor / Third-Party Reporting, Mixed Request.
+
 ## 2. Primary Business Question
 
 State the main question the report should answer in business language.
