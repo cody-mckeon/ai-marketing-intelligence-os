@@ -1,0 +1,294 @@
+# ----------------------------------------
+# Landing page: Landing page
+# Account: RW Las Vegas
+# Property: RW Las Vegas - GA4
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20260317
+# End date: 20260614
+Landing page,Session source / medium,Sessions,Bounce rate,Active users,New users,Average engagement time per session,Key events,Total revenue,Session key event rate
+/offers/summer,google / cpc,103827,0.6779257803846783,98153,89069,25.836805455228408,76,61693.51,0.00068382983231722
+/offers/summer,(direct) / (none),37227,0.7261127676149032,30224,18879,20.29502780240148,4,4979.66,0.0001074488946194966
+/offers/summer,%esid! / Social,15383,0.7668205161541962,13763,12887,13.833192485210947,0,0,0
+/offers/summer,The Trade Desk / CPM,14584,0.8000548546352166,13100,12994,7.449122325836533,0,0,0
+/offers/summer,(not set) / Social,8911,0.7946358433396925,8309,7966,13.092806643474358,1,496.61,0.00011222085063404781
+/offers/summer,%esid! / paid,8184,0.8038856304985337,7602,7175,10.795332355816226,0,0,0
+/offers/summer,(not set),7080,0.7382768361581921,5920,2769,37.24152542372882,0,0,0
+/offers/summer,google / organic,5929,0.5650193961882274,5038,2318,28.233934896272558,1,611.12,0.00016866250632484398
+/offers/summer,fb / paid,5429,0.7677288635107755,5105,4912,10.701970897034444,1,700.68,0.0001841959845275373
+/offers/summer,Epsilon Data Management 1 / CPM,4899,0.614206981016534,4740,5551,3.621147172892427,0,0,0
+/offers/summer,ig / paid,3178,0.7822529893014475,2979,2825,8.763058527375708,1,591.85,0.00031466331025802394
+/offers/summer,fb / PaidSocial,2087,0.6641111643507427,1892,1757,16.55821753713464,1,993.21,0.0004791566842357451
+/offers/summer,bing / ppc,2055,0.32019464720194646,1911,1581,102.77128953771289,8,9649.78,0.0034063260340632603
+/offers/summer,ig / PaidSocial,1960,0.5943877551020408,1806,1692,19.885714285714286,0,0,0
+/offers/summer,7590548 / Video,1818,0.9411441144114412,1802,1731,3.074807480748075,0,0,0
+/offers/summer,m.facebook.com / referral,1798,0.5539488320355951,1676,1551,14.1440489432703,0,0,0
+/offers/summer,Kayak - US / CPM,1755,0.5544159544159544,1517,907,30.09287749287749,0,0,0
+/offers/summer,Email Marketing / CPM,1617,0.6462585034013606,50,707,19.55225726654298,0,0,0
+/offers/summer,Navigator Tech / CPM,1248,0.7596153846153846,1125,1013,14.692307692307692,0,0,0
+/offers/summer,(data not available),1171,0.7147736976942783,1146,1060,26.346712211784798,0,0,0
+/offers/summer,US_AMZ_DSP_PH / CPM,847,0.4722550177095632,752,620,14.434474616292798,0,0,0
+/offers/summer,Facebook / CPM,826,0.784503631961259,645,439,10.670702179176756,0,0,0
+/offers/summer,l.facebook.com / referral,802,0.8453865336658354,778,751,7.629675810473816,0,0,0
+/offers/summer,reddit.com / Social,742,0.5633423180592992,690,616,30.890835579514825,0,0,0
+/offers/summer,rewardsrwlv.joingo.com / referral,730,0.5561643835616439,26,284,45.175342465753424,1,233.56,0.0013698630136986301
+/offers/summer,kayak / DigitalDirect,713,0.9284712482468443,687,653,4.308555399719495,0,0,0
+/offers/summer,7590548 / Display,604,0.8029801324503312,533,516,7.172185430463577,0,0,0
+/offers/summer,resortsworldexternal.okta.com / referral,595,0.6571428571428571,21,248,20.4890756302521,0,0,0
+/offers/summer,10213602 / DigitalDirect,539,0.9647495361781077,529,525,0.640074211502783,0,0,0
+/offers/summer,ig / social,475,0.32210526315789473,457,425,56.36631578947368,0,0,0
+/offers/summer,visitlasvegas.com / referral,471,0.32908704883227174,424,352,64.23354564755839,0,0,0
+/offers/summer,instagram.com / referral,468,0.8418803418803419,420,389,5.8076923076923075,0,0,0
+/offers/summer,bing / organic,450,0.42,197,147,39.35111111111111,0,0,0
+/offers/summer,visitlasvegas / landing-page,378,0.5502645502645502,296,103,27.775132275132275,1,231.3,0.0026455026455026454
+/offers/summer,Google Ads / CPM,369,0.4905149051490515,306,233,46.766937669376695,0,0,0
+/offers/summer,bing / Search,343,0.2915451895043732,305,213,80.90962099125365,3,2354.91,0.008746355685131196
+/offers/summer,facebook.com / referral,303,0.6567656765676567,274,203,14.636963696369637,0,0,0
+/offers/summer,iHeart-com / CPM,290,0.7448275862068966,266,259,24.255172413793105,0,0,0
+/offers/summer,7590548 / Native,284,0.8908450704225352,252,253,3.834507042253521,0,0,0
+/offers/summer,digital / gmg,252,0.2777777777777778,239,210,53.63095238095238,0,0,0
+/offers/summer,rwlv / website,241,0.4315352697095436,53,105,42.850622406639005,0,0,0
+/offers/summer,hilton.com / referral,214,0.5327102803738317,6,82,33.299065420560744,0,0,0
+/offers/summer,yahoo / organic,168,0.6190476190476191,5,63,21.68452380952381,0,0,0
+/offers/summer,lm.facebook.com / referral,129,0.6744186046511628,122,114,24.73643410852713,0,0,0
+/offers/summer,adwords / ppc,123,0.7154471544715447,104,92,23.983739837398375,0,0,0
+/offers/summer,reddit.com / referral,112,0.5178571428571429,78,65,25.223214285714285,0,0,0
+/offers/summer,aax.amazon-adsystem.com / referral,61,0.7540983606557377,0,31,13.37704918032787,0,0,0
+/offers/summer,l.instagram.com / referral,61,0.4262295081967213,59,51,25.80327868852459,0,0,0
+/offers/summer,onetag-sys.com / Display,58,0.7068965517241379,57,61,3.2241379310344827,0,0,0
+/offers/summer,9307347 / DigitalDirect,54,0.8333333333333334,51,49,5.166666666666667,0,0,0
+/offers/summer,duckduckgo / organic,53,0.5849056603773585,5,18,18,0,0,0
+/offers/summer,c.amazon-adsystem.com / referral,52,0.9423076923076923,0,40,1.8076923076923077,0,0,0
+/offers/summer,yahoo.com / referral,49,0.40816326530612246,4,16,40.285714285714285,0,0,0
+/offers/summer,Bing Search / CPM,47,0.2978723404255319,41,13,28.340425531914892,0,0,0
+/offers/summer,chatgpt.com / (not set),44,0.5,0,21,38.97727272727273,0,0,0
+/offers/summer,bing / PMax,43,0.27906976744186046,33,36,61.86046511627907,0,0,0
+/offers/summer,tiktok.com / referral,42,0.9047619047619048,0,22,5.833333333333333,0,0,0
+/offers/summer,RWLasVegas.com / button,39,0.6923076923076923,0,20,13.512820512820513,0,0,0
+/offers/summer,m.yelp.com / referral,39,0.6666666666666666,0,15,73.84615384615384,0,0,0
+/offers/summer,9576636 / DigitalDirect,36,0.9722222222222222,32,32,0.1111111111111111,0,0,0
+/offers/summer,email / email_campaign,36,0.4722222222222222,3,12,36.111111111111114,0,0,0
+/offers/summer,email_campaign / email,36,0.5277777777777778,1,14,29.305555555555557,0,0,0
+/offers/summer,imasdk.googleapis.com / referral,35,0.42857142857142855,0,11,35.77142857142857,0,0,0
+/offers/summer,reddit / (not set),34,0.4411764705882353,22,10,20.88235294117647,0,0,0
+/offers/summer,capitaloneshopping.com / referral,28,0.6785714285714286,0,11,18.071428571428573,0,0,0
+/offers/summer,s0.2mdn.net / referral,27,0.14814814814814814,0,2,56.48148148148148,0,0,0
+/offers/summer,sfmc / email,27,0.6666666666666666,0,19,19.62962962962963,0,0,0
+/offers/summer,%esid! / DigitalDirect,26,0.5769230769230769,21,14,13.846153846153847,0,0,0
+/offers/summer,{{site_source_name}} / PaidSocial,24,0.16666666666666666,21,17,23.291666666666668,0,0,0
+/offers/summer,Google / Search,23,0.34782608695652173,18,16,36.52173913043478,0,0,0
+/offers/summer,resortsworldglobal.genting / referral,22,0.6818181818181818,1,5,18.636363636363637,0,0,0
+/offers/summer,storage.googleapis.com / referral,22,0.7272727272727273,0,9,8.136363636363637,0,0,0
+/offers/summer,paid.outbrain.com / referral,21,0.7619047619047619,0,11,22.095238095238095,0,0,0
+/offers/summer,linktr.ee / referral,20,0.5,0,2,51.8,0,0,0
+/offers/summer,epsilon / display,19,0.47368421052631576,1,6,24.789473684210527,0,0,0
+/offers/summer,linkedin.com / referral,18,0.4444444444444444,16,13,18.555555555555557,0,0,0
+/offers/summer,7590548 / CTV,17,1,17,17,0,0,0,0
+/offers/summer,Google / PMax,16,0.5625,9,7,30.5,0,0,0
+/offers/summer,qr_code / on-property,16,0.625,1,5,47.6875,0,0,0
+/offers/summer,%esid! / referral,14,0.07142857142857142,13,13,107.57142857142857,0,0,0
+/offers/summer,emb / partnership,14,0.5,13,10,21.357142857142858,0,0,0
+/offers/summer,(not set) / Display,13,0.6923076923076923,12,12,9,0,0,0
+/offers/summer,t.co / referral,13,0.46153846153846156,5,6,21.76923076923077,0,0,0
+/offers/summer,grandislandresort.com / referral,12,0.3333333333333333,0,0,21.583333333333332,0,0,0
+/offers/summer,thegoodplacelv.com / referral,11,0.45454545454545453,0,3,18.272727272727273,0,0,0
+/offers/summer,vegas-infos.de / referral,11,0.09090909090909091,10,10,77.18181818181819,0,0,0
+/offers/summer,QR-code / On-Property,10,0.7,0,6,5.4,0,0,0
+/offers/summer,creators.yahoo.com / referral,10,0.5,1,5,32.3,0,0,0
+/offers/summer,ecosia.org / organic,9,0.7777777777777778,0,1,24.11111111111111,0,0,0
+/offers/summer,ticketmaster.com / referral,9,0.6666666666666666,0,5,25.666666666666668,0,0,0
+/offers/summer,bandsintown.com / referral,8,0.25,0,3,54.375,0,0,0
+/offers/summer,bing.com / referral,8,0.75,0,6,15.25,0,0,0
+/offers/summer,grandfallscasinoresort.com / referral,8,0.625,7,2,8.625,0,0,0
+/offers/summer,safegraph / (not set),8,0.75,0,3,4.75,0,0,0
+/offers/summer,share / ios_app,8,0.75,6,6,0.75,0,0,0
+/offers/summer,%esid! / (not set),7,0.7142857142857143,3,6,16.714285714285715,0,0,0
+/offers/summer,ntp.msn.com / referral,7,0.2857142857142857,0,1,23.142857142857142,0,0,0
+/offers/summer,ros / partnership,7,0.2857142857142857,0,3,26.857142857142858,0,0,0
+/offers/summer,chargerback.com / referral,6,1,0,1,0.16666666666666666,0,0,0
+/offers/summer,chatgpt.com / ai-assistant,6,0.5,0,1,19.333333333333332,0,0,0
+/offers/summer,chatgpt.com / referral,6,0.6666666666666666,0,4,20.666666666666668,0,0,0
+/offers/summer,email / gmg,6,0,0,0,55.833333333333336,0,0,0
+/offers/summer,mail.google.com / referral,6,0.6666666666666666,0,3,1.5,0,0,0
+/offers/summer,smartervegas / referral,6,0.6666666666666666,0,3,44.833333333333336,0,0,0
+/offers/summer,statics.teams.cdn.office.net / referral,6,0.3333333333333333,2,3,55.166666666666664,0,0,0
+/offers/summer,yelp.com / referral,6,0.16666666666666666,0,1,19.5,0,0,0
+/offers/summer,%esid! / Display,5,0.6,2,2,0,0,0,0
+/offers/summer,link.seated.com / referral,5,0.6,0,4,9.6,0,0,0
+/offers/summer,perplexity / (not set),5,1,0,4,0,0,0,0
+/offers/summer,pubads.g.doubleclick.net / referral,5,0.8,0,3,141.8,0,0,0
+/offers/summer,rhythmcitycasino.com / referral,5,0.2,0,2,7,0,0,0
+/offers/summer,riversidecasinoandresort.com / referral,5,0.2,0,1,79.2,0,0,0
+/offers/summer,ww44.affinity.net / referral,5,0.6,0,3,23.6,0,0,0
+/offers/summer,9768361 / CTV,4,0.25,4,5,0,0,0,0
+/offers/summer,aegpresents.com / referral,4,0.75,0,0,18.75,0,0,0
+/offers/summer,app.asana.com / referral,4,0.25,2,0,5,0,0,0
+/offers/summer,crossroadslasvegas.com / referral,4,0.75,4,2,6.25,0,0,0
+/offers/summer,currently.att.yahoo.com / referral,4,0.5,0,0,70,0,0,0
+/offers/summer,en.wikipedia.org / referral,4,0.5,0,1,124.5,0,0,0
+/offers/summer,l.instagram.com / Social,4,0.75,3,2,0.25,0,0,0
+/offers/summer,nfrexperience.com / referral,4,0.25,0,2,55.75,0,0,0
+/offers/summer,resortsworlstg.wpengine.com / referral,4,1,0,3,3,0,0,0
+/offers/summer,rwnewyork.com / referral,4,0.5,0,1,16.25,0,0,0
+/offers/summer,tagassistant.google.com / referral,4,0.75,4,0,12.5,0,0,0
+/offers/summer,th / paid,4,0.5,3,4,116.75,0,0,0
+/offers/summer,thedealguy.com / newsletter,4,0.75,0,0,18.5,0,0,0
+/offers/summer,urvenue.atlassian.net / referral,4,0.25,1,2,20.75,0,0,0
+/offers/summer,visitrw.com / referral,4,0.75,0,3,29.25,0,0,0
+/offers/summer,walkersbluffcasinoresort.com / referral,4,0.75,0,1,6,0,0,0
+/offers/summer-deals-you-deserve/terms,(direct) / (none),4,0.5,0,1,8.25,0,0,0
+/offers/summer,(not set) / email,3,0.3333333333333333,0,0,20,0,0,0
+/offers/summer,GoogleHPA / FBL,3,0.6666666666666666,0,1,1,0,0,0
+/offers/summer,amazon.com / referral,3,1,0,2,0,0,0,0
+/offers/summer,app.pendo.io / referral,3,0,1,0,109,0,0,0
+/offers/summer,awardtravel.co / referral,3,1,0,1,0,0,0,0
+/offers/summer,bing / cpc,3,0.3333333333333333,0,0,436.3333333333333,0,0,0
+/offers/summer,ca.search.yahoo.com / referral,3,0.3333333333333333,2,0,21,0,0,0
+/offers/summer,gemini.google.com / referral,3,0.3333333333333333,1,1,10.333333333333334,0,0,0
+/offers/summer,lasvegasthenandnow.com / referral,3,1,0,3,0,0,0,0
+/offers/summer,littlechapel.com / referral,3,0,3,1,79.33333333333333,0,0,0
+/offers/summer,opentable.com / referral,3,1,0,2,0,0,0,0
+/offers/summer,res.windsurfercrs.com / referral,3,0.6666666666666666,0,0,5,0,0,0
+/offers/summer,search.brave.com / referral,3,0.6666666666666666,0,1,205.33333333333334,0,0,0
+/offers/summer-deals-you-deserve,(direct) / (none),3,1,3,3,0,0,0,0
+/offers/summer,(direct) / Social,2,0,2,0,313.5,0,0,0
+/offers/summer,Google / Display,2,0.5,0,1,16.5,0,0,0
+/offers/summer,abc.com / referral,2,1,0,0,0,0,0,0
+/offers/summer,advisor.fora.travel / referral,2,0,0,0,45.5,0,0,0
+/offers/summer,aksalser.com / referral,2,0,0,0,57,0,0,0
+/offers/summer,desktime.com / referral,2,1,0,1,1,0,0,0
+/offers/summer,docs.google.com / referral,2,0.5,0,0,6.5,0,0,0
+/offers/summer,eventsmanager.facebook.com / referral,2,0,0,2,22.5,0,0,0
+/offers/summer,flipboard.com / referral,2,1,0,1,0,0,0,0
+/offers/summer,forbestravelguide.com / referral,2,0.5,0,1,19,0,0,0
+/offers/summer,ig-cdn.onagilysys.com / referral,2,1,0,1,4,0,0,0
+/offers/summer,lakemaccasinoresort.com / referral,2,0,0,0,40.5,0,0,0
+/offers/summer,linkprefer.com / referral,2,0,0,1,75.5,0,0,0
+/offers/summer,nccreports.com / referral,2,1,1,0,0,0,0,0
+/offers/summer,neoldu.com / referral,2,1,0,1,0,0,0,0
+/offers/summer,operations.urvenue.me / referral,2,0,0,0,38,0,0,0
+/offers/summer,outlook.live.com / referral,2,1,0,0,2,0,0,0
+/offers/summer,patrika.com / referral,2,0.5,0,1,30,0,0,0
+/offers/summer,pch.com / referral,2,0.5,0,0,42,0,0,0
+/offers/summer,pokeratlas.com / referral,2,1,0,1,6,0,0,0
+/offers/summer,rwbimini.com / referral,2,0,0,1,80,0,0,0
+/offers/summer,samso-suite-sales-dzabesffbzd5gxgj.centralus-01.azurewebsites.net / referral,2,1,0,0,0,0,0,0
+/offers/summer,screamscape.com / referral,2,1,2,2,0,0,0,0
+/offers/summer,seated.link / referral,2,0.5,0,1,10,0,0,0
+/offers/summer,sisbehaving.com / referral,2,0.5,0,1,38,0,0,0
+/offers/summer,taconnect.net / referral,2,1,0,1,0.5,0,0,0
+/offers/summer,the-trade-desk / referral,2,0.5,0,0,0,0,0,0
+/offers/summer,travelzork.com / referral,2,0,0,0,12.5,0,0,0
+/offers/summer,uk.search.yahoo.com / referral,2,1,0,0,4.5,0,0,0
+/offers/summer,vegassunsetsoiree.splashthat.com / referral,2,1,0,0,0,0,0,0
+/offers/summer,www-8newsnow-com.cdn.ampproject.org / referral,2,1,0,1,0,0,0,0
+/offers/summer,yogonet.com / referral,2,1,0,0,0,0,0,0
+/offers/summer,youtube.com / referral,2,0.5,1,2,31.5,0,0,0
+/offers/summer-deals-you-deserve,US_AMZ_DSP_PH / CPM,2,1,0,0,0,0,0,0
+/offers/summer-deals-you-deserve,google / organic,2,1,0,2,0,0,0,0
+/offers/summer,0 / Display,1,1,1,0,1,0,0,0
+/offers/summer,3bdc81912cdd24a2b4b2a50f0979e554.safeframe.googlesyndication.com / Display,1,1,1,1,2,0,0,0
+/offers/summer,7124580 / Display,1,1,1,1,0,0,0,0
+/offers/summer,8newsnow.com / referral,1,0,0,0,39,0,0,0
+/offers/summer,Google / DemandGen,1,1,0,1,0,0,0,0
+/offers/summer,GoogleHPA / LocalUniversal,1,1,0,0,0,0,0,0
+/offers/summer,Vegas2Go / app,1,1,0,0,5,0,0,0
+/offers/summer,adcombo.com / referral,1,1,0,1,3,0,0,0
+/offers/summer,alliancetravel.com / referral,1,0,1,0,16,0,0,0
+/offers/summer,book.passkey.com / referral,1,0,0,0,39,0,0,0
+/offers/summer,broadwayworld.com / referral,1,0,0,0,51,0,0,0
+/offers/summer,c.reward-access.com / referral,1,0,0,0,9,0,0,0
+/offers/summer,canva.com / referral,1,0,1,0,34,0,0,0
+/offers/summer,ceabc8cc65a0a3ebb259c38a6e8a4cce.safeframe.googlesyndication.com / Display,1,0,1,1,624,0,0,0
+/offers/summer,centricsoftware.com / referral,1,0,0,1,13,0,0,0
+/offers/summer,circalasvegas.com / referral,1,0,0,0,12,0,0,0
+/offers/summer,clcktrck.com / referral,1,0,0,0,19,0,0,0
+/offers/summer,cn.bing.com / referral,1,1,0,0,0,0,0,0
+/offers/summer,copilot.com / referral,1,1,0,0,3,0,0,0
+/offers/summer,dawghouselasvegas.com / referral,1,1,0,0,7,0,0,0
+/offers/summer,dealam.com / referral,1,1,0,1,0,0,0,0
+/offers/summer,email / promotional,1,1,1,0,0,0,0,0
+/offers/summer,emb / partnerships,1,1,0,1,0,0,0,0
+/offers/summer,events.tti.com / referral,1,1,0,0,0,0,0,0
+/offers/summer,everpuredata.com / referral,1,0,0,0,2,0,0,0
+/offers/summer,excel.officeapps.live.com / referral,1,1,0,1,0,0,0,0
+/offers/summer,eyebuydirect.com / referral,1,1,0,0,0,0,0,0
+/offers/summer,fodors.com / referral,1,1,0,0,0,0,0,0
+/offers/summer,for9a.com / referral,1,0,0,0,24,0,0,0
+/offers/summer,futbolred.com / referral,1,0,0,0,84,0,0,0
+/offers/summer,gatsbysvegas.getbento.com / referral,1,0,0,1,23,0,0,0
+/offers/summer,go.seated.com / referral,1,0,0,0,20,0,0,0
+/offers/summer,google / paidsearch,1,1,0,0,0,0,0,0
+/offers/summer,googleadservices.com / referral,1,0,1,1,31,0,0,0
+/offers/summer,gtaforums.com / referral,1,1,0,0,0,0,0,0
+/offers/summer,hdforums.com / referral,1,1,0,1,1,0,0,0
+/offers/summer,imperva.com / referral,1,1,0,0,7,0,0,0
+/offers/summer,inc.com / referral,1,1,0,0,0,0,0,0
+/offers/summer,indeed.com / referral,1,1,0,1,0,0,0,0
+/offers/summer,intellipaat.com / referral,1,0,0,0,51,0,0,0
+/offers/summer,jambase / (not set),1,1,0,1,0,0,0,0
+/offers/summer,jamestownsun.com / referral,1,1,0,0,1,0,0,0
+/offers/summer,kagi.com / referral,1,0,0,0,89,0,0,0
+/offers/summer,kayak / (not set),1,1,0,0,0,0,0,0
+/offers/summer,ketv.com / referral,1,1,0,1,2,0,0,0
+/offers/summer,l.facebook.com / Social,1,1,1,1,0,0,0,0
+/offers/summer,lasvegasadvisor.com / referral,1,1,0,1,0,0,0,0
+/offers/summer,lasvegasmagazine.com / referral,1,1,0,0,2,0,0,0
+/offers/summer,lasvegasweekly.com / referral,1,1,0,0,0,0,0,0
+/offers/summer,letyshops.com / referral,1,0,0,0,60,0,0,0
+/offers/summer,luxxle.com / referral,1,1,0,1,0,0,0,0
+/offers/summer,m.baidu.com / referral,1,0,0,1,0,0,0,0
+/offers/summer,mail3.spectrum.net / referral,1,0,0,0,38,0,0,0
+/offers/summer,maps.apple.com / referral,1,0,0,0,116,0,0,0
+/offers/summer,master.joingo.com / referral,1,1,0,1,0,0,0,0
+/offers/summer,mlbtraderumors.com / referral,1,1,0,0,0,0,0,0
+/offers/summer,moodys.com / referral,1,0,0,0,2,0,0,0
+/offers/summer,morleymi.com / referral,1,1,0,1,2,0,0,0
+/offers/summer,movernie.com / referral,1,0,0,0,1,0,0,0
+/offers/summer,msn.com / referral,1,1,0,1,0,0,0,0
+/offers/summer,mulberrypizzeria.com / referral,1,0,0,0,15,0,0,0
+/offers/summer,neon.reviewjournal.com / referral,1,1,0,0,0,0,0,0
+/offers/summer,nerdist.com / referral,1,1,0,0,0,0,0,0
+/offers/summer,observer.com / referral,1,0,0,0,60,0,0,0
+/offers/summer,onlinepianist.com / referral,1,0,0,1,18,0,0,0
+/offers/summer,pitchero.com / referral,1,0,0,0,11,0,0,0
+/offers/summer,purestorage.com / referral,1,0,0,0,20,0,0,0
+/offers/summer,qr_code / website,1,1,0,1,0,0,0,0
+/offers/summer,r.salegains.com / referral,1,0,0,0,21,0,0,0
+/offers/summer,radio.com / referral,1,1,0,1,7,0,0,0
+/offers/summer,rakuten / display,1,0,1,0,241,0,0,0
+/offers/summer,rakuten.com / referral,1,0,0,0,52,0,0,0
+/offers/summer,reddit / referral,1,0,0,0,49,0,0,0
+/offers/summer,rwhudsonvalleyny.com / referral,1,0,0,1,68,0,0,0
+/offers/summer,rwlv2.amelia.com / referral,1,1,0,1,0,0,0,0
+/offers/summer,search.nortonsafesearch.com / referral,1,0,0,0,214,0,0,0
+/offers/summer,search.shoppingwaves.net / referral,1,1,0,0,4,0,0,0
+/offers/summer,seattletimes.com / referral,1,1,0,0,0,0,0,0
+/offers/summer,shopback.com / referral,1,0,0,0,41,0,0,0
+/offers/summer,shulmansays.com / referral,1,0,0,0,32,0,0,0
+/offers/summer,smartervegas / (not set),1,1,0,0,8,0,0,0
+/offers/summer,snapchat.com / referral,1,0,0,0,69,0,0,0
+/offers/summer,snapdeal.com / referral,1,0,0,1,62,0,0,0
+/offers/summer,svin.org / referral,1,0,0,0,12,0,0,0
+/offers/summer,sweetwater.com / referral,1,1,0,1,0,0,0,0
+/offers/summer,tamboenman.xyz / referral,1,1,0,1,1,0,0,0
+/offers/summer,teams.microsoft.com / referral,1,0,0,0,30,0,0,0
+/offers/summer,thepointsguy.com / referral,1,0,1,0,0,0,0,0
+/offers/summer,toolszap.com / referral,1,0,0,1,15,0,0,0
+/offers/summer,trinity.ads.microsoft.com / referral,1,1,1,1,1,0,0,0
+/offers/summer,tripadvisor.com / referral,1,1,0,1,0,0,0,0
+/offers/summer,tripadvisor.com.au / referral,1,1,0,1,0,0,0,0
+/offers/summer,tripadvisor.in / referral,1,0,1,0,92,0,0,0
+/offers/summer,url.emailprotection.link / referral,1,1,0,0,0,0,0,0
+/offers/summer,urlscanner.mailmarshal.cloud / referral,1,0,0,1,13,0,0,0
+/offers/summer,us.reddit.com / Social,1,1,1,1,0,0,0,0
+/offers/summer,usphonebook.com / referral,1,1,0,1,0,0,0,0
+/offers/summer,vegas.aegpresents.com / referral,1,0,0,0,122,0,0,0
+/offers/summer,vegaslinqs.com / referral,1,0,0,1,27,0,0,0
+/offers/summer,vpfree2.com / referral,1,1,0,1,0,0,0,0
+/offers/summer,webmail1.earthlink.net / referral,1,1,0,1,0,0,0,0
+/offers/summer,zalo / zalo,1,1,0,1,0,0,0,0
+/offers/summer,zyngasupport.helpshift.com / referral,1,1,0,1,0,0,0,0
+/offers/summer-deals-you-deserve,(not set),1,1,1,1,0,0,0,0
+/offers/summer-deals-you-deserve/terms,The Trade Desk / CPM,1,1,0,0,0,0,0,0
